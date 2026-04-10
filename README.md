@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Marcellos 👋
 
-<!--
-**Marcellos-VonBuchenroder/Marcellos-VonBuchenroder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Developer focused on C# and .NET  
+🚀 Passionate about building full-stack applications  
+📊 Experience with real-world data systems and dashboards  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- C# | .NET | ASP.NET MVC  
+- SQL | REST APIs  
+- JavaScript | HTML | CSS  
+
+---
+
+## 📂 Projects
+
+### 🔹 Fridge Management System
+- Full-stack application with admin & customer roles  
+- Role-based authentication  
+- Payment integration  
+- Built with C#, ASP.NET MVC, SQL  
+
+### 🔹 Employment Management System
+- CRUD-based employee system  
+- Built with ASP.NET MVC and SQL  
+
+---
+
+## 📈 Currently Learning
+- Advanced .NET development  
+- System design fundamentals  
+- Introduction to Machine Learning  
+
+---
+
+## 🎯 Career Goal
+To grow into a Senior Software Engineer and eventually specialize in Machine Learning / Staff-level engineering.
+
+---
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/marcellos-von-buchenroder/
