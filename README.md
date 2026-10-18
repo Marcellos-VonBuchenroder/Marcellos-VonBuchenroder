@@ -41,6 +41,10 @@ A team of four built this; I owned the **Laboratory Manager subsystem**.
 ### 🔹 [Claim Zero](https://github.com/Marcellos-VonBuchenroder/claim-zero): React app to AWS with CI/CD
 Containerised a React app, provisioned ECS infrastructure with Terraform, and connected a GitHub → CodePipeline → ECR → ECS push-to-deploy pipeline. Built during the Codewrkx cloud engineering accelerator.
 
+### 🔹 Design-pattern team projects *(Blazor Server, .NET 8, 2026)*
+- [SparkClean Laundry Management](https://github.com/Marcellos-VonBuchenroder/LaundryManagementBlazor): six patterns across a four-role ordering and tracking app. I set up the project and built the **Singleton** order logger.
+- [Call Center Simulation](https://github.com/Marcellos-VonBuchenroder/Call-Center-System): Iterator, State, Composite and Proxy patterns. I built the **State** pattern for call handling (on call, on hold, hung up).
+
 ### 🔹 Fridge Management System *(academic major project, 2025)*
 Full-stack ASP.NET MVC application with customer and admin roles, role-based login and payment processing.
 
