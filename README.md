@@ -25,7 +25,7 @@ Full-stack developer in Gqeberha, South Africa. I build and run production web s
 
 ### 🔹 IMH UNITE: Monitoring & Evaluation platform *(production, private repo)*
 Full-stack system I designed and built for a mental health non-profit. It tracks learners, caregivers, schools, stakeholders and 15 programme indicators.
-- React, Node.js/Express, PostgreSQL (13 tables), Docker
+- React, Node.js/Express, PostgreSQL (43 tables), Docker
 - Deployed on **Azure Container Apps (South Africa North)** for data residency
 - JWT auth, per-module role-based access control, audit logging, duplicate detection, funder-facing PDF reports
 - Migrated the organisation's data from Excel into the new database
